@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      vlsi
+HostName                       ic312.vit.ac.in
+ProcessIdentifier              4941
+ProcessCreationTime_UTC        1745306394
+ProcessCreationTime_Readable   Tue Apr 22 12:49:54 2025 IST
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /home/vlsi/vlsihackathon/23BEC1333/ckt2/schematic/sch.oa.cdslck
+TimeEditLocked                 Tue Apr 22 14:18:25 2025 IST
